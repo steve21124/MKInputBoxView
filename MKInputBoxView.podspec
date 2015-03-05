@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.author              = { "planetexpress69" => "martin@teambender.de" }
   s.source              = { :git => "https://github.com/planetexpress69/MKInputBoxView.git", :tag => s.version.to_s }
   s.social_media_url    = "https://twitter.com/planetexpress69"
-  s.platform            = :ios, '8.0'
+  s.platform            = :ios, '7.0'
   s.requires_arc        = true
   s.source_files        = 'MKInputBoxView/**/*'
 end
